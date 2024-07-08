@@ -1,0 +1,2 @@
+Total files processed: 1
+Processed file: C:\Users\BigBoss\pract\files\task.js
